@@ -4,7 +4,7 @@ import json
 import telebot
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot = telebot.TeleBot("YOUR_BOT_TOKEN")
+bot = telebot.TeleBot("6413264184:AAGurOdUp19ZmaYgFglVLp4VFrR2nrjacK4")
 
 # Get the directory where this script is located
 script_directory = os.path.dirname(os.path.abspath(__file__))
